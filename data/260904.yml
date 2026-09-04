@@ -1,11 +1,13 @@
 about:
-  description: A commandline tool for resetting Kafka Connect source connector offsets.
+  description:
+  |
+    A commandline tool for resetting Kafka Connect source connector offsets.
   license: Apache-2.0
   homepage: 
   head: 333aeb1
   archived: false
   latestVersion: v1.4.1
-  collectedAt: 2026-09-04T05:00:27Z
+  collectedAt: 2026-09-04T19:54:08Z
 timeline:
   created: 2021-01-08
   lastCommit: 2023-12-06
@@ -16,14 +18,22 @@ popularity:
   fork: 2
   release: 24
   contributor: 3
-  pullRequest: 32
+  pullRequest: 296
   issue: 11
 language:
   Java: 21224
-totalLine: 21224
+totalBytes: 21224
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -54,3 +64,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 24
+  mergedPR: 264
+  openPR: 8
+  closedIssue: 11
+  openIssue: 0
+  commit: 595
+---
+---
+
